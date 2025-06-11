@@ -1,0 +1,26 @@
+body {
+   background: #2864ff;
+   color: white;
+   height: 100vh;
+   margin: 0;
+}
+
+h1 {
+   font-family: "Bebas Neue";
+   font-size: 30rem;
+   left: 50%;
+   margin: 0;
+   opacity: 0.1;
+   position: absolute;
+   text-align: center;
+   top: 50%;
+   transform: translate(-50%, -50%);
+}
+
+.progress {
+   background-color: #a1bcff;
+   height: 3px;
+   position: absolute;
+   top: 50%;
+   width: 0%;
+}
